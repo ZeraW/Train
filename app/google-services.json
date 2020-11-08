@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "767057072526",
+    "firebase_url": "https://train-170c4.firebaseio.com",
+    "project_id": "train-170c4",
+    "storage_bucket": "train-170c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767057072526:android:a49ac36bea7bf8b68ed4df",
+        "android_client_info": {
+          "package_name": "com.example.train"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767057072526-kfe0sph5gu9hn05fs9peouiadqi99oqc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.train",
+            "certificate_hash": "ce90cff6e885907f104a0fde2d7847f4bb37a0e0"
+          }
+        },
+        {
+          "client_id": "767057072526-mkus5r1h3m272mfv25anmoqc5b58sfjd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlgBXAG9_qnw2QQviDmKyhENTQJRqbexw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767057072526-mkus5r1h3m272mfv25anmoqc5b58sfjd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
